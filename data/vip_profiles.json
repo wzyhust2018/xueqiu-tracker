@@ -165,7 +165,250 @@
         "2026-09-24：初始画像（基于 2026-04-26 ~ 08-17 的 21 条公开发言撰写；该用户发言低频，样本有限，随每日新增发言持续修订）",
         "2026-09-24：素材错配修正（港口段归位紫金陈/五粮液移除）"
       ]
+    },
+    "6876843497": {
+      "name": "省心省力",
+      "profile_max_id": 410504783,
+      "pending_posts": [],
+      "profile": {
+        "投资理念": "强调长期价值与股东回报，重视企业治理和管理层能力。认为高端品牌一旦下滑难以恢复，定价权决定产业链地位。主张股息率+回购是真实股东回报，反对纯粹情绪化炒作。强调'不要浪费每一次危机'，在底部敢于逆势布局，但前提是公司有持续回购或分红的实际行动。",
+        "选股与分析方法": "技术面与基本面结合。技术面关注K线形态（双底、新低、支撑位），偏好'双底未新低'的标的回避'双底新低'。基本面深入产业链分析（如动力电池vs储能对碳酸锂价格的差异化敏感度），重视企业回购力度与分红传统（以宇通十年95%分红率为标杆）。对管理层决策有独立判断，敢于公开批评。",
+        "交易与仓位习惯": "期货与股票并重。期货使用杠杆（曾7倍），单笔有明确止损（如碳酸锂反弹两天后13.3万平仓）。股票倾向左侧布局，有耐心陪公司扛（前提是公司持续回购）。有明确的胜率记录习惯（曾统计白银76.5%胜率、燃油100%胜率、综合82%），重视顺势而为。单笔仓位可控，能接受阶段性浮亏但设底线。",
+        "关注领域与常谈标的": "深耕新能源产业链：动力电池（宁德时代）、锂矿（天齐、中矿、盐湖、赣锋、永兴）、整车（理想、蔚来、问界、零跑、比亚迪）。延伸至燃油能源（宝丰、海油）和内存存储。对美股中概（理想汽车）也有覆盖。常谈标的具有强周期性或产业链地位特征。",
+        "风险态度与心理特质": "风险意识强但敢于逆势。对管理层评价严苛（称某些车企管理层'最愚蠢最傲慢'）。有强烈输赢记录欲和复盘习惯，承认误判（如新能源见底误判后及时止损）。情绪宣泄直接（'又蠢又坏活该亏钱'），但不影响交易纪律。重视'知行合一'，看对后要果断行动。对抗市场时会反思（自认在股票上没做到顺势）。"
+      },
+      "summary": "新能源产业链深度研究者，技术面+基本面结合，重视股东回报与企业治理，敢逆势但设止损，有强烈复盘习惯。",
+      "last_profile_date": "2026-10-03",
+      "evolution": [
+        "2026-10-03：初始画像 5 维度（消费发言 21 条）"
+      ]
+    },
+    "2292705444": {
+      "name": "metalslime",
+      "profile_max_id": 0,
+      "pending_posts": [
+        {
+          "id": 409578247,
+          "created_at": 1789608154000,
+          "text": "回复@我想看看你的韧性: 啤酒我也很懂，有空我可以写写。上市企业不好投，历史包袱重//@我想看看你的韧性:回复@WiliWang:对呀 我很奇怪 一直看好啤酒",
+          "source": "雪球",
+          "is_retweet": true,
+          "truncated": false,
+          "user_id": 2292705444,
+          "user_name": "metalslime",
+          "pics": []
+        },
+        {
+          "id": 409582016,
+          "created_at": 1789608967000,
+          "text": "我精酿喝的挺多的，以前几次a股炒精酿也都参与了，对线下线上得业态跟模式也非常熟悉。很难得得是，我还认识不少做精酿企业跟之前投资过精酿得投资人，信息渠道是非常通畅的。有空我可以单独开一个贴好好聊聊啤酒，不止精酿也包括上市的这些企业。",
+          "source": "雪球",
+          "is_retweet": false,
+          "truncated": false,
+          "user_id": 2292705444,
+          "user_name": "metalslime",
+          "pics": []
+        },
+        {
+          "id": 409582588,
+          "created_at": 1789609086000,
+          "text": "回复@全安行: 我去任何一个城市基本都会去当地的精酿酒馆，我觉得哪个好喝不重要，重要的是旅途中那一点点的微醺。//@全安行:回复@metalslime:哪款最好喝这先介绍清楚",
+          "source": "雪球",
+          "is_retweet": true,
+          "truncated": false,
+          "user_id": 2292705444,
+          "user_name": "metalslime",
+          "pics": []
+        },
+        {
+          "id": 409593916,
+          "created_at": 1789610970000,
+          "text": "回复@岁月你别追: 邂逅真不能去精酿，要去清吧。 清吧也很不错。//@岁月你别追:回复@metalslime:那一点点微醺和那未知的邂逅",
+          "source": "雪球",
+          "is_retweet": true,
+          "truncated": false,
+          "user_id": 2292705444,
+          "user_name": "metalslime",
+          "pics": []
+        },
+        {
+          "id": 409594611,
+          "created_at": 1789611085000,
+          "text": "回复@稳位: 进展太快，日新月异，我都有点跟不住了。比大模型进展快六七倍。//@稳位:回复@metalslime:酒神，ai制药，分析分析",
+          "source": "雪球",
+          "is_retweet": true,
+          "truncated": false,
+          "user_id": 2292705444,
+          "user_name": "metalslime",
+          "pics": []
+        },
+        {
+          "id": 409595437,
+          "created_at": 1789611245000,
+          "text": "回复@旅团拾三: 我也就卖飞40个点。。。//@旅团拾三:回复@metalslime:几个蛋白都突破了",
+          "source": "雪球",
+          "is_retweet": true,
+          "truncated": false,
+          "user_id": 2292705444,
+          "user_name": "metalslime",
+          "pics": []
+        },
+        {
+          "id": 409603354,
+          "created_at": 1789612813000,
+          "text": "回复@简单投资123: 大多数医药仓位卖了就开始旅游了。。。 等于是拿医药持仓里的蛋白换的铝。。。 要是这么一比较//@简单投资123:回复@metalslime:药神铝能拿吗",
+          "source": "Android",
+          "is_retweet": true,
+          "truncated": false,
+          "user_id": 2292705444,
+          "user_name": "metalslime",
+          "pics": []
+        },
+        {
+          "id": 409605474,
+          "created_at": 1789613277000,
+          "text": "啤酒还挺不好写的，我得整理下思路，要是这几天出去旅游的话，估计就不写了。毕竟写了也没啥用其实。",
+          "source": "Android",
+          "is_retweet": false,
+          "truncated": false,
+          "user_id": 2292705444,
+          "user_name": "metalslime",
+          "pics": []
+        },
+        {
+          "id": 409606135,
+          "created_at": 1789613424000,
+          "text": "回复@繁华俗世113: 确实没看到很好的投资机会，纯吃吃息还行。 相关企业的历史包袱太重了。//@繁华俗世113:回复@metalslime:药神这意思还不明显，没啥空间。。。",
+          "source": "Android",
+          "is_retweet": true,
+          "truncated": false,
+          "user_id": 2292705444,
+          "user_name": "metalslime",
+          "pics": []
+        },
+        {
+          "id": 409606229,
+          "created_at": 1789613447000,
+          "text": "回复@回本一年级小学生: 完完全全俩行业，相似度非常低。//@回本一年级小学生:回复@metalslime:期待，毕竟感觉啤酒和白酒思路还是差别蛮大的，但是这两个还总是拿在一起比较",
+          "source": "Android",
+          "is_retweet": true,
+          "truncated": false,
+          "user_id": 2292705444,
+          "user_name": "metalslime",
+          "pics": []
+        },
+        {
+          "id": 409607705,
+          "created_at": 1789613813000,
+          "text": "回复@slw7: 怡红院里当和尚了属于是。//@slw7:回复@metalslime:去当地清吧我都是和调酒师聊调酒思路注定没有艳遇了",
+          "source": "Android",
+          "is_retweet": true,
+          "truncated": false,
+          "user_id": 2292705444,
+          "user_name": "metalslime",
+          "pics": []
+        },
+        {
+          "id": 409616764,
+          "created_at": 1789616345000,
+          "text": "段永平：当你做个长期主义者，很多事情就简单了",
+          "source": "雪球",
+          "is_retweet": false,
+          "truncated": false,
+          "user_id": 2292705444,
+          "user_name": "metalslime",
+          "pics": []
+        },
+        {
+          "id": 409622976,
+          "created_at": 1789619498000,
+          "text": "宁王的事情就是车企已经卷到用不起宁德时代了呗？然后产品其实高度同质化",
+          "source": "Android",
+          "is_retweet": false,
+          "truncated": false,
+          "user_id": 2292705444,
+          "user_name": "metalslime",
+          "pics": []
+        },
+        {
+          "id": 409676352,
+          "created_at": 1789642372000,
+          "text": "二狗都能有2700多人充电学习亏钱技巧，炒股的自媒体还是好啊。",
+          "source": "Android",
+          "is_retweet": false,
+          "truncated": false,
+          "user_id": 2292705444,
+          "user_name": "metalslime",
+          "pics": []
+        },
+        {
+          "id": 409717272,
+          "created_at": 1789689669000,
+          "text": "接下来旅游一个月，不上雪球，不看盘。",
+          "source": "Android",
+          "is_retweet": false,
+          "truncated": false,
+          "user_id": 2292705444,
+          "user_name": "metalslime",
+          "pics": []
+        },
+        {
+          "id": 409983209,
+          "created_at": 1789953896000,
+          "text": "因为不同价格买入黄酒的人成本差距可能比较大，为了防止害人，短时间内我就不写黄酒的东西了。产业也不是风平浪静的，想跟踪想学习想研究还是多靠自己吧。继续旅游ing。",
+          "source": "Android",
+          "is_retweet": false,
+          "truncated": false,
+          "user_id": 2292705444,
+          "user_name": "metalslime",
+          "pics": []
+        },
+        {
+          "id": 410061082,
+          "created_at": 1789977995000,
+          "text": "内需可能有趋势性机会，需要重视。地产供给侧有一定效果出现+内需政策预期。每当消费占gdp比例下滑过快，外资卖方出现传闻就要先信。",
+          "source": "Android",
+          "is_retweet": false,
+          "truncated": false,
+          "user_id": 2292705444,
+          "user_name": "metalslime",
+          "pics": []
+        },
+        {
+          "id": 410326042,
+          "created_at": 1790136385000,
+          "text": "黄酒基本都是新高，趁着还没人亏钱说一下，以后不会聊黄酒了。我也不想承担其他人亏钱的风险。继续旅游放空。",
+          "source": "Android",
+          "is_retweet": false,
+          "truncated": false,
+          "user_id": 2292705444,
+          "user_name": "metalslime",
+          "pics": []
+        },
+        {
+          "id": 410326384,
+          "created_at": 1790136596000,
+          "text": "回复@多财多宝: 铝被套了，不懂油。//@多财多宝:回复@metalslime:药神旅游的时候顺便讲讲铝和油呗",
+          "source": "Android",
+          "is_retweet": true,
+          "truncated": false,
+          "user_id": 2292705444,
+          "user_name": "metalslime",
+          "pics": []
+        },
+        {
+          "id": 410355763,
+          "created_at": 1790147558000,
+          "text": "以前的省：持有股票踩雷危机。 现在的省：捡尸发生危机后的尸体。",
+          "source": "Android",
+          "is_retweet": true,
+          "truncated": false,
+          "user_id": 2292705444,
+          "user_name": "metalslime",
+          "pics": []
+        }
+      ]
     }
   },
-  "updated_at": "2026-10-02 14:32:23"
+  "updated_at": "2026-10-03 12:51:20"
 }
